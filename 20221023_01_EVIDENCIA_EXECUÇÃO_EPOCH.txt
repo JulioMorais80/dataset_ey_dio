@@ -1,0 +1,48 @@
+https://colab.research.google.com/github/sparsh-ai/rec-tutorials/blob/master/_notebooks/2021-04-27-image-similarity-recommendations.ipynb
+
+
+
+Epoch 1/100
+/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:9: UserWarning: `Model.fit_generator` is deprecated and will be removed in a future version. Please use `Model.fit`, which supports generators.
+  if __name__ == '__main__':
+348/348 [==============================] - 1620s 5s/step - loss: 2.9265 - accuracy: 0.2342 - val_loss: 2.2304 - val_accuracy: 0.4326
+Epoch 2/100
+348/348 [==============================] - 1614s 5s/step - loss: 1.5810 - accuracy: 0.6069 - val_loss: 1.6142 - val_accuracy: 0.6279
+Epoch 3/100
+348/348 [==============================] - 1622s 5s/step - loss: 1.0536 - accuracy: 0.7612 - val_loss: 1.4978 - val_accuracy: 0.6722
+Epoch 4/100
+348/348 [==============================] - 1618s 5s/step - loss: 0.8567 - accuracy: 0.8163 - val_loss: 1.3894 - val_accuracy: 0.7323
+Epoch 5/100
+348/348 [==============================] - 1618s 5s/step - loss: 0.8157 - accuracy: 0.8285 - val_loss: 1.3536 - val_accuracy: 0.7438
+Epoch 6/100
+348/348 [==============================] - 1610s 5s/step - loss: 0.7689 - accuracy: 0.8393 - val_loss: 1.3495 - val_accuracy: 0.7363
+Epoch 7/100
+348/348 [==============================] - 1608s 5s/step - loss: 0.7659 - accuracy: 0.8397 - val_loss: 1.3548 - val_accuracy: 0.7497
+Epoch 8/100
+348/348 [==============================] - 1612s 5s/step - loss: 0.7581 - accuracy: 0.8428 - val_loss: 1.3083 - val_accuracy: 0.7723
+Epoch 9/100
+348/348 [==============================] - 1610s 5s/step - loss: 0.7356 - accuracy: 0.8480 - val_loss: 1.3753 - val_accuracy: 0.7588
+Epoch 10/100
+348/348 [==============================] - 1611s 5s/step - loss: 0.7395 - accuracy: 0.8464 - val_loss: 1.2686 - val_accuracy: 0.7622
+Epoch 11/100
+348/348 [==============================] - 1610s 5s/step - loss: 0.7327 - accuracy: 0.8479 - val_loss: 1.3155 - val_accuracy: 0.7580
+Epoch 12/100
+348/348 [==============================] - 1614s 5s/step - loss: 0.7294 - accuracy: 0.8489 - val_loss: 1.3664 - val_accuracy: 0.7506
+Epoch 13/100
+348/348 [==============================] - 1606s 5s/step - loss: 0.7347 - accuracy: 0.8474 - val_loss: 1.3060 - val_accuracy: 0.7658
+Epoch 14/100
+348/348 [==============================] - 1601s 5s/step - loss: 0.7271 - accuracy: 0.8490 - val_loss: 1.2712 - val_accuracy: 0.7672
+Epoch 15/100
+348/348 [==============================] - 1604s 5s/step - loss: 0.7217 - accuracy: 0.8505 - val_loss: 1.3263 - val_accuracy: 0.7653
+Epoch 16/100
+348/348 [==============================] - 1606s 5s/step - loss: 0.6744 - accuracy: 0.8607 - val_loss: 1.1095 - val_accuracy: 0.8119
+Epoch 17/100
+348/348 [==============================] - 1602s 5s/step - loss: 0.4962 - accuracy: 0.8977 - val_loss: 1.2866 - val_accuracy: 0.7883
+Epoch 18/100
+348/348 [==============================] - 1598s 5s/step - loss: 0.4928 - accuracy: 0.8982 - val_loss: 1.0361 - val_accuracy: 0.8275
+Epoch 19/100
+348/348 [==============================] - 1603s 5s/step - loss: 0.4919 - accuracy: 0.8975 - val_loss: 1.1152 - val_accuracy: 0.8146
+Epoch 20/100
+276/348 [======================>.......] - ETA: 5:02 - loss: 0.4830 - accuracy: 0.8996
+
+Tempo de Execução: 08h 35m 8s - Conclusão 23:31
